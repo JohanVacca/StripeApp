@@ -1,2 +1,2 @@
-# StripeApp
-Payment gateway
+# recipe-app-api
+Recipe app source code
